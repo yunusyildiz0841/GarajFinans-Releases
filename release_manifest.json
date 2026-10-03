@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.2.0/garaj_finans_v1.2.0.apk",
+  "sha256": "2E45B5F65B3A3F4AE57A84FB72B7A6FE9AB0B0DB7378ABC6E6BB15205A6EC5A1",
+  "releaseNotes": "Takvim gününün ilk anına (00:00) göre bakiye hesabı, ekran açıkken canlı gün değişimi yenilemesi, imza doğrulamalı güncelleme altyapısı."
+}
