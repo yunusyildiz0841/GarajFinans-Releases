@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.2.1/garaj_finans_v1.2.1.apk",
-  "sha256": "5EC2FAD399FB57859E7753B6E6E9E82AA89A7ECDD9332C3F321AB6B7CEED1B7C",
-  "releaseNotes": "Yeni Garaj Finans logo tasarımı (çatı, turkuaz ingiliz anahtarı, mavi grafik) uygulama simgesi ve açılış ekranı logosu olarak uyarlandı."
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.2.2/garaj_finans_v1.2.2.apk",
+  "sha256": "FC93BCA3E8D458316F0C47651ACEEBF22059C1FDBE108C6D451F5F06820C9243",
+  "releaseNotes": "Uygulama içi güncelleme arayüzü ve akışı yenilendi: 'İndir ve Güncelle' butonu, canlı indirme ilerleme çubuğu ve Android paket yükleyici entegrasyonu sağlandı."
 }
