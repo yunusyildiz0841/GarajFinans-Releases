@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.2.2/garaj_finans_v1.2.2.apk",
-  "sha256": "FC93BCA3E8D458316F0C47651ACEEBF22059C1FDBE108C6D451F5F06820C9243",
-  "releaseNotes": "Uygulama içi güncelleme arayüzü ve akışı yenilendi: 'İndir ve Güncelle' butonu, canlı indirme ilerleme çubuğu ve Android paket yükleyici entegrasyonu sağlandı."
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.2.3/garaj_finans_v1.2.3.apk",
+  "sha256": "6CF9AC7B99D62D37BD4FCD6BE5EC77CDDCAC95422F5D3F45F0194A9034BFFC64",
+  "releaseNotes": "Ana sayfada Garaj Finans başlığının altına 'Her gün bir adım ileri' sloganı eklendi. Uygulama içi güncelleme deneyimi doğrulandı."
 }
