@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
-  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.2.3/garaj_finans_v1.2.3.apk",
-  "sha256": "6CF9AC7B99D62D37BD4FCD6BE5EC77CDDCAC95422F5D3F45F0194A9034BFFC64",
-  "releaseNotes": "Ana sayfada Garaj Finans başlığının altına 'Her gün bir adım ileri' sloganı eklendi. Uygulama içi güncelleme deneyimi doğrulandı."
+  "versionCode": 7,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/yunusyildiz0841/GarajFinans-Releases/releases/download/v1.3.0/garaj_finans_v1.3.0.apk",
+  "sha256": "5F8726F0C5DA82628A418AAA7657DE6052D1681D2E0C85703E0CF12146413990",
+  "releaseNotes": "Aşama C Mesleki Gelişim ve Otomobil & Motosiklet Arıza Teşhis modülü eklendi. Çevrimdışı arıza senaryoları, İSG güvenlik uyarıları, Ross-Tech VAG Wiki ve Google teknik bilgi tarama desteği sağlandı."
 }
